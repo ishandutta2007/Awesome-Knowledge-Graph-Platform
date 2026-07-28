@@ -1,3 +1,4 @@
+![Banner](assets/banner.svg)
 # Awesome-Knowledge-Graph-Platform
 ## Top Knowledge Graph Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
