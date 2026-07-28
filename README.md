@@ -1,5 +1,6 @@
+<!-- Keywords: Knowledge Graph, Graph Database, Semantic Web, Ontology, GraphRAG, Neo4j, RDF, SPARQL, SaaS, Open Source -->
 ![Banner](assets/banner.svg)
-# Awesome-Knowledge-Graph-Platform
+# Awesome Knowledge Graph Platform - The Ultimate Graph Database Guide
 ## 🌟 Top Knowledge Graph Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Enterprise Knowledge Graphs, Semantic Reasoning, RDF/SPARQL, Property Graphs, Ontology Management & GraphRAG*
