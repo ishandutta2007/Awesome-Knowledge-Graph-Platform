@@ -20,51 +20,26 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-### Core Platforms (Knowledge Graph & Semantic)
-
-- **[Neo4j / Neo4j Aura](https://neo4j.com/)**  
-  Leading native property graph database with Cypher, vector search, Graph Data Science library, and fully managed Aura cloud service for GraphRAG and enterprise applications.
-
-- **[Stardog](https://www.stardog.com/)**  
-  Enterprise knowledge graph platform with RDF/OWL reasoning, virtual graphs (federation without ETL), SHACL validation, and SPARQL/GraphQL support for unified data access.
-
-- **[Ontotext GraphDB / Graphwise](https://www.ontotext.com/ / https://graphwise.ai/)**  
-  High-performance RDF triple store with OWL reasoning, SPARQL, and GraphRAG capabilities; now part of Graphwise after merger with Semantic Web Company.
-
-- **[Amazon Neptune](https://aws.amazon.com/neptune/)**  
-  Fully managed AWS graph database supporting both property graphs (openCypher, Gremlin) and RDF/SPARQL, with Neptune Analytics for large-scale algorithms and tight AWS integration.
-
-- **[Memgraph](https://memgraph.com/)**  
-  High-performance in-memory graph database (Cypher-compatible) optimized for real-time analytics, streaming, GraphRAG, and AI agent memory; available as managed cloud.
-
-- **[data.world](https://data.world/)**  
-  Collaborative data catalog and knowledge graph platform focused on data discovery, governance, and semantic enrichment for enterprise data teams.
-
-- **[Cambridge Semantics Anzo / AnzoGraph](https://cambridgesemantics.com/)**  
-  Semantic data fabric and MPP graph analytics engine supporting SPARQL, Cypher, and OWL/RDFS+ for large-scale knowledge graph analytics and data virtualization.
-
-- **[PoolParty Semantic Suite / Graphwise](https://www.poolparty.biz/)**  
-  Semantic AI platform for taxonomy/ontology management, text mining, entity extraction, and knowledge graph construction; integrated into Graphwise with GraphDB.
-
-- **[Franz AllegroGraph](https://franz.com/agraph/)**  
-  High-performance, multi-model (RDF, vector, document) semantic graph database with advanced reasoning, Prolog, and Entity-Event Knowledge Graph capabilities.
-
-- **[TopQuadrant TopBraid EDG](https://www.topquadrant.com/)**  
-  Enterprise data governance platform centered on knowledge graphs, ontologies, SHACL, and metadata management for governed semantic layers.
-
-- **[Diffbot Knowledge Graph](https://www.diffbot.com/)**  
-  AI-powered knowledge graph automatically extracted from the public web, with structured entities, relationships, and APIs for search and enrichment.
-
-- **[Metaphacts](https://metaphacts.com/)**  
-  Knowledge graph application platform built on RDF standards for building end-user semantic applications, search, and visualization on top of triple stores.
-
-### Additional Notable SaaS / Hosted Options
-- TigerGraph (distributed analytics-focused graph platform)
-- ArangoDB Oasis (multi-model managed service)
-- Oracle Spatial and Graph / Graph Server
-- Microsoft Fabric IQ Ontology / Azure Cosmos DB graph capabilities
-- Palantir Foundry Ontology
-- eccenca Corporate Memory
+| Platform | Valuation/Revenue | Pricing | Free Tier Limits | Description |
+|---|---|---|---|---|
+| **Microsoft Fabric IQ / Azure Cosmos DB** | $3.0 Trillion Valuation | Consumption-based | 1000 RU/s & 25GB | Graph capabilities and enterprise ontology management within Azure. |
+| **[Amazon Neptune](https://aws.amazon.com/neptune/)** | $1.8 Trillion Valuation | Consumption-based | 750 hours/month of db.t3.medium (1 month) | Fully managed AWS graph database supporting property graphs (openCypher, Gremlin) and RDF/SPARQL. |
+| **Oracle Spatial and Graph** | $300 Billion Valuation | Consumption-based | 2 Always Free autonomous databases | Graph Server and Spatial capabilities for Oracle Cloud. |
+| **Palantir Foundry Ontology** | $40 Billion Valuation | Enterprise / Custom | No free tier | Enterprise knowledge graph platform for operations and analytics. |
+| **[Neo4j / Neo4j Aura](https://neo4j.com/)** | $2.5 Billion Valuation | Pay-as-you-go & Enterprise | 1 DB, 200k nodes, 400k edges | Leading native property graph database with Cypher, vector search, and managed cloud. |
+| **TigerGraph** | $1 Billion Valuation | Consumption-based | 50GB instance (TigerGraph Cloud) | Distributed analytics-focused graph platform. |
+| **[Diffbot Knowledge Graph](https://www.diffbot.com/)** | ~$150 Million Valuation | Enterprise / Custom | 14-day free trial | AI-powered knowledge graph extracted from the public web via APIs. |
+| **[data.world](https://data.world/)** | ~$100 Million Valuation | Enterprise / Custom | Community edition (public data) | Collaborative data catalog and knowledge graph platform for data discovery and governance. |
+| **[Stardog](https://www.stardog.com/)** | ~$100 Million Valuation | Enterprise / Custom | Free tier with DB size limits | Enterprise knowledge graph platform with RDF/OWL reasoning, federation, and SPARQL/GraphQL. |
+| **ArangoDB Oasis** | ~$50 Million Valuation | Consumption-based | 14-day free trial | Multi-model managed service supporting graphs, documents, and key-value. |
+| **[Memgraph](https://memgraph.com/)** | ~$50 Million Valuation | Pay-as-you-go & Enterprise | Open source free, Cloud trial | High-performance in-memory graph database (Cypher) optimized for real-time analytics. |
+| **[Ontotext GraphDB / Graphwise](https://graphwise.ai/)** | ~$30 Million Revenue | Enterprise / Custom | GraphDB Free with limits | High-performance RDF triple store with OWL reasoning, SPARQL, and GraphRAG capabilities. |
+| **[PoolParty Semantic Suite](https://www.poolparty.biz/)** | ~$20 Million Revenue | Enterprise / Custom | No free tier | Semantic AI platform for taxonomy/ontology management and text mining. |
+| **[Cambridge Semantics Anzo](https://cambridgesemantics.com/)** | ~$20 Million Revenue | Enterprise / Custom | AnzoGraph Free (up to 8GB RAM) | Semantic data fabric and MPP graph analytics engine supporting SPARQL and Cypher. |
+| **[TopQuadrant TopBraid EDG](https://www.topquadrant.com/)** | ~$15 Million Revenue | Enterprise / Custom | No free tier | Enterprise data governance platform centered on knowledge graphs and ontologies. |
+| **[Franz AllegroGraph](https://franz.com/agraph/)** | ~$10 Million Revenue | Enterprise / Custom | Free edition (5M triples) | Multi-model semantic graph database with advanced reasoning and Prolog. |
+| **[Metaphacts](https://metaphacts.com/)** | ~$10 Million Revenue | Enterprise / Custom | 14-day free trial | Application platform for building semantic apps, search, and visualization on RDF. |
+| **eccenca Corporate Memory** | ~$5 Million Revenue | Enterprise / Custom | No free tier | Enterprise knowledge graph and data integration platform. |
 
 ## Open-Source GitHub Projects
 
