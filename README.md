@@ -43,44 +43,44 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-- **[Apache Jena / Fuseki](https://github.com/apache/jena)**  
-  Comprehensive open-source Java framework for Semantic Web and Linked Data applications, including TDB storage, SPARQL engine, and Fuseki SPARQL server.
-
-- **[Eclipse RDF4J](https://github.com/eclipse-rdf4j/rdf4j)**  
-  Scalable Java framework for RDF processing, storage, reasoning, and querying with a vendor-neutral Repository API and SPARQL support.
-
-- **[Oxigraph](https://github.com/oxigraph/oxigraph)**  
-  Fast, standards-compliant RDF graph database and SPARQL toolkit written in Rust (RocksDB-backed), with Python and JavaScript bindings.
-
-- **[QLever](https://github.com/ad-freiburg/qlever)**  
-  Extremely fast SPARQL engine and RDF triplestore that scales to hundreds of billions (and beyond) of triples on a single commodity machine, with full-text and GeoSPARQL support.
-
-- **[JanusGraph](https://github.com/JanusGraph/janusgraph)**  
-  Highly scalable, distributed open-source property graph database (Apache TinkerPop/Gremlin) with pluggable storage (Cassandra, HBase, etc.) and indexing backends.
-
-- **[TerminusDB](https://github.com/terminusdb/terminusdb)**  
-  Open-source document + knowledge graph database with Git-like versioning (branch, diff, merge, time-travel), GraphQL, and WOQL (Datalog-style) query language.
-
-- **[Protégé](https://github.com/protegeproject/protege)**  
-  The leading free, open-source ontology editor supporting OWL 2, with desktop and collaborative WebProtégé versions for ontology engineering.
-
-- **[Memgraph](https://github.com/memgraph/memgraph)**  
-  High-performance open-source (BSL) in-memory graph database with Cypher, built-in algorithms (MAGE), vector search, and strong real-time/GraphRAG focus.
-
-- **[Dgraph](https://github.com/dgraph-io/dgraph)**  
+- **[Dgraph](https://github.com/dgraph-io/dgraph)** [![Stars](https://img.shields.io/github/stars/dgraph-io/dgraph?style=social&color=white)](https://github.com/dgraph-io/dgraph/stargazers)
   Native distributed graph database with GraphQL-native interface, high performance, and horizontal scalability (now fully Apache 2.0).
 
-- **[ArangoDB](https://github.com/arangodb/arangodb)**  
+- **[ArangoDB](https://github.com/arangodb/arangodb)** [![Stars](https://img.shields.io/github/stars/arangodb/arangodb?style=social&color=white)](https://github.com/arangodb/arangodb/stargazers)
   Multi-model open-source database supporting graphs, documents, and key-value with a unified query language (AQL); Community Edition available.
 
-- **[ArcadeDB](https://github.com/ArcadeData/arcadedb)**  
+- **[Memgraph](https://github.com/memgraph/memgraph)** [![Stars](https://img.shields.io/github/stars/memgraph/memgraph?style=social&color=white)](https://github.com/memgraph/memgraph/stargazers)
+  High-performance open-source (BSL) in-memory graph database with Cypher, built-in algorithms (MAGE), vector search, and strong real-time/GraphRAG focus.
+
+- **[JanusGraph](https://github.com/JanusGraph/janusgraph)** [![Stars](https://img.shields.io/github/stars/JanusGraph/janusgraph?style=social&color=white)](https://github.com/JanusGraph/janusgraph/stargazers)
+  Highly scalable, distributed open-source property graph database (Apache TinkerPop/Gremlin) with pluggable storage (Cassandra, HBase, etc.) and indexing backends.
+
+- **[TerminusDB](https://github.com/terminusdb/terminusdb)** [![Stars](https://img.shields.io/github/stars/terminusdb/terminusdb?style=social&color=white)](https://github.com/terminusdb/terminusdb/stargazers)
+  Open-source document + knowledge graph database with Git-like versioning (branch, diff, merge, time-travel), GraphQL, and WOQL (Datalog-style) query language.
+
+- **[Apache Jena / Fuseki](https://github.com/apache/jena)** [![Stars](https://img.shields.io/github/stars/apache/jena?style=social&color=white)](https://github.com/apache/jena/stargazers)
+  Comprehensive open-source Java framework for Semantic Web and Linked Data applications, including TDB storage, SPARQL engine, and Fuseki SPARQL server.
+
+- **[Oxigraph](https://github.com/oxigraph/oxigraph)** [![Stars](https://img.shields.io/github/stars/oxigraph/oxigraph?style=social&color=white)](https://github.com/oxigraph/oxigraph/stargazers)
+  Fast, standards-compliant RDF graph database and SPARQL toolkit written in Rust (RocksDB-backed), with Python and JavaScript bindings.
+
+- **[ArcadeDB](https://github.com/ArcadeData/arcadedb)** [![Stars](https://img.shields.io/github/stars/ArcadeData/arcadedb?style=social&color=white)](https://github.com/ArcadeData/arcadedb/stargazers)
   Fully open-source (Apache 2.0) multi-model database supporting graphs, documents, key-value, time-series, and vectors with SQL, Cypher, Gremlin, and GraphQL.
 
-- **[OpenLink Virtuoso (Open Source Edition)](https://github.com/openlink/virtuoso-opensource)**  
+- **[Protégé](https://github.com/protegeproject/protege)** [![Stars](https://img.shields.io/github/stars/protegeproject/protege?style=social&color=white)](https://github.com/protegeproject/protege/stargazers)
+  The leading free, open-source ontology editor supporting OWL 2, with desktop and collaborative WebProtégé versions for ontology engineering.
+
+- **[Blazegraph](https://github.com/blazegraph/database)** [![Stars](https://img.shields.io/github/stars/blazegraph/database?style=social&color=white)](https://github.com/blazegraph/database/stargazers)
+  High-performance open-source RDF/SPARQL and property graph database (powers Wikidata Query Service); note: development largely paused after AWS acquisition of the team.
+
+- **[OpenLink Virtuoso (Open Source Edition)](https://github.com/openlink/virtuoso-opensource)** [![Stars](https://img.shields.io/github/stars/openlink/virtuoso-opensource?style=social&color=white)](https://github.com/openlink/virtuoso-opensource/stargazers)
   High-performance multi-model RDBMS and RDF triple store with SPARQL, Linked Data deployment, and data integration capabilities.
 
-- **[Blazegraph](https://github.com/blazegraph/database)**  
-  High-performance open-source RDF/SPARQL and property graph database (powers Wikidata Query Service); note: development largely paused after AWS acquisition of the team.
+- **[Eclipse RDF4J](https://github.com/eclipse-rdf4j/rdf4j)** [![Stars](https://img.shields.io/github/stars/eclipse-rdf4j/rdf4j?style=social&color=white)](https://github.com/eclipse-rdf4j/rdf4j/stargazers)
+  Scalable Java framework for RDF processing, storage, reasoning, and querying with a vendor-neutral Repository API and SPARQL support.
+
+- **[QLever](https://github.com/ad-freiburg/qlever)** [![Stars](https://img.shields.io/github/stars/ad-freiburg/qlever?style=social&color=white)](https://github.com/ad-freiburg/qlever/stargazers)
+  Extremely fast SPARQL engine and RDF triplestore that scales to hundreds of billions (and beyond) of triples on a single commodity machine, with full-text and GeoSPARQL support.
 
 ### Additional Strong Open-Source Options
 - **Apache AGE** — PostgreSQL extension adding openCypher graph capabilities.
@@ -112,3 +112,4 @@ Star the repo if you find it useful!
 ---
 **Made for data engineers, knowledge engineers, AI researchers, ontology developers, and semantic technology practitioners.**  
 Let's make knowledge graphs more open, interoperable, and powerful.
+
