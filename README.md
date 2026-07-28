@@ -1,6 +1,6 @@
 ![Banner](assets/banner.svg)
 # Awesome-Knowledge-Graph-Platform
-## Top Knowledge Graph Platforms Ecosystem
+## 🌟 Top Knowledge Graph Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Enterprise Knowledge Graphs, Semantic Reasoning, RDF/SPARQL, Property Graphs, Ontology Management & GraphRAG*
 **Last updated: July 2026**
@@ -13,13 +13,13 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## 📚 Table of Contents
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 | Platform | Valuation/Revenue | Pricing | Free Tier Limits | Description |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Metaphacts](https://metaphacts.com/)** | ~$10 Million Revenue | Enterprise / Custom | 14-day free trial | Application platform for building semantic apps, search, and visualization on RDF. |
 | **eccenca Corporate Memory** | ~$5 Million Revenue | Enterprise / Custom | No free tier | Enterprise knowledge graph and data integration platform. |
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 - **[Dgraph](https://github.com/dgraph-io/dgraph)** [![Stars](https://img.shields.io/github/stars/dgraph-io/dgraph?style=social&color=white)](https://github.com/dgraph-io/dgraph/stargazers)
   Native distributed graph database with GraphQL-native interface, high performance, and horizontal scalability (now fully Apache 2.0).
@@ -97,7 +97,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom systems**: Combine **Apache Jena/Fuseki** or **Oxigraph/QLever** (RDF/SPARQL), **JanusGraph** or **ArcadeDB/Memgraph** (property graphs), **Protégé** (ontology editing), **RDFLib**, and **InfluxDB/Grafana** or vector stores with **LangChain/LlamaIndex** + local LLMs for intelligent knowledge graph and GraphRAG platforms.
 
-## How to Contribute
+## 🤝 How to Contribute
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
 3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
@@ -105,7 +105,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Knowledge graph platforms involve complex data modeling, reasoning, and governance; evaluate security, scalability, licensing (especially BSL vs OSI-approved), and standards compliance carefully.
 - Self-hosted open-source solutions require proper operational expertise, backups, and access controls for production use.
